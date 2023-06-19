@@ -1,0 +1,42 @@
+[
+    {
+        "pairID": "124845c",
+        "text": "Premise:\nInasmuch as there lacks an aerodrome on this exquisite isle, one must seek solace in the fact that the only port of entry is Skala, which furthermore is the primary location for hotels and commerce.\n\nHypothesis:\nThe most efficacious approach to reach the island would be via the majestic skies, courtesy of an airplane.",
+        "label": "contradiction",
+        "orig_prem": "Since there is no airport on the island, all visitors must arrive at the port, Skala, where most of the hotels are located and all commercial activity is carried out.",
+        "orig_hyp": "The best way to get onto the island is by plane.",
+        "orig_label": "contradiction"
+    },
+    {
+        "pairID": "57773e",
+        "text": "Premise:\nThe emperor hath been oft a minor, thus the Fujiwara patriarch doth assume the role of regent.\n\nHypothesis:\nAt times, the emperor was in his youth, having not yet seen eighteen summers.",
+        "label": "entailment",
+        "orig_prem": "Very often the emperor was only a minor, so that the Fujiwara patriarch acted as regent.",
+        "orig_hyp": "Sometimes the emperor was less than 18 years of age. ",
+        "orig_label": "entailment"
+    },
+    {
+        "pairID": "109996n",
+        "text": "Premise:\nVerily, thou art aware that Arnold Schwarzenegger is becoming quite diverse an actor. In bygone days, he was known only for his bulging biceps, but now he endeavours to explore diverse roles.\n\nHypothesis:\nVerily, mine eyes prefer Arnold Schwarzenegger as a thespian, rather than when he flexed his mighty sinews as a bodybuilder.",
+        "label": "neutral",
+        "orig_prem": "you know Arnold Schwarzenegger is getting to be uh a bit of a variety actor you know at first he was just a big muscle man but he's kind of branching out",
+        "orig_hyp": "I prefer Arnold Schwarzenegger as a variety actor to when he was a muscle man.",
+        "orig_label": "neutral"
+    },
+    {
+        "pairID": "3476c",
+        "text": "Premise:\nAye, apparently the appraisers be fancyin' it 'cause our taxes be as high as the crow's nest! Ain't it true, matey?\n\nHypothesis:\nThe appraiser did nae fancy it one bit.",
+        "label": "contradiction",
+        "orig_prem": "apparently apparently the appraisers likes it because our taxes sure is high  isn't it it really is",
+        "orig_hyp": "The appraiser did not like it one bit.",
+        "orig_label": "contradiction"
+    },
+    {
+        "pairID": "21239e",
+        "text": "Premise:\nThis bidding to play the soothsayer is not a thing easily denied.\n\nHypothesis:\nThe calling to play the seer is not of easy denial.",
+        "label": "entailment",
+        "orig_prem": "This call to play fortuneteller is not easily refused.",
+        "orig_hyp": "It's not easily refused the call to play fortuneteller.",
+        "orig_label": "entailment"
+    }
+]
