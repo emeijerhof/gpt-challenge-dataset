@@ -3,3 +3,4 @@ bert_score
 evaluate
 pandas
 python-dotenv
+scykit-learn
